@@ -3,7 +3,7 @@
 Scraping dan Analisis Sentimen Review Aplikasi Gojek
 </h1>
 
-### Author : [Dony Nur Hidayat](www.linkedin.com/in/donynurh/)
+### Author : [Dony Nur Hidayat](linkedin.com/in/donynurh/)
 
 # Overview
 
